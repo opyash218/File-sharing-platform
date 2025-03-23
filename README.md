@@ -21,7 +21,7 @@ A file-sharing application built using Node.js, allowing users to upload, downlo
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/file-sharing-system.git
+   git clone https://github.com/opyash218/File-sharing-platform.git
    cd file-sharing-system
    ```
 2. Install dependencies:
